@@ -1,0 +1,2 @@
+# BASE\_MANA\_REGEN\_AMOUNT
+

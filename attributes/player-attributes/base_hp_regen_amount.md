@@ -1,0 +1,2 @@
+# BASE\_HP\_REGEN\_AMOUNT
+

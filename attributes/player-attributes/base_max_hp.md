@@ -1,0 +1,2 @@
+# BASE\_MAX\_HP
+

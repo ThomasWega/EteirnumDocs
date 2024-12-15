@@ -1,0 +1,2 @@
+# HP\_REGEN\_AMOUNT
+

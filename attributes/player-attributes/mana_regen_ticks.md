@@ -1,0 +1,2 @@
+# MANA\_REGEN\_TICKS
+
